@@ -1,0 +1,4 @@
+﻿     Создается библиотека C:\Users\student\source\repos\lab_11\x64\Debug\lab_1.lib и объект C:\Users\student\source\repos\lab_11\x64\Debug\lab_1.exp
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+LINK : warning LNK4217: Символ "glewInit", определенный в "glew.obj", импортирован "lab_1.obj" в функции "main".
+  lab_1.vcxproj -> C:\Users\student\source\repos\lab_11\x64\Debug\lab_1.exe
